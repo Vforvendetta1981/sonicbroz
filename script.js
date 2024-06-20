@@ -5,7 +5,7 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 const sonic = new Image();
-sonic.src = 'https://example.com/sonic.png'; // Replace with the URL of your Sonic image
+sonic.src = 'https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fsw704v9qkgd51.jpg'; // Replace with the URL of your Sonic image
 
 let sonicX = 50;
 let sonicY = canvas.height - 150;
